@@ -1,0 +1,20 @@
+# Platformio artifacts
+.pio
+.pioenvs
+.piolibdeps
+.clangd
+compile_commands.json
+
+# Editor directories
+.vscode/
+.idea/
+
+# Binaries
+*.bin
+*.elf
+*.map
+
+# Secrets
+**/secrets.h
+.env
+.ccls
