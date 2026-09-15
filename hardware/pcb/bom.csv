@@ -1,0 +1,11 @@
+Reference,Qty,Value,Footprint,MPN,Manufacturer,Chosen_Distributor,Datasheet,Validated,DNP,Notes
+J1,1,DS18B20 HOT,JST_PH_S3B-PH-K_1x03_P2.00mm_Horizontal,S3B-PH-K-S(LF)(SN),JST,,,,,
+J2,1,DS18B20 COLD,JST_PH_S3B-PH-K_1x03_P2.00mm_Horizontal,S3B-PH-K-S(LF)(SN),JST,,,,,
+J3,1,DHT22,JST_PH_S3B-PH-K_1x03_P2.00mm_Horizontal,S3B-PH-K-S(LF)(SN),JST,,,,,
+J4,1,DIM_VI,JST_PH_S4B-PH-K_1x04_P2.00mm_Horizontal,S4B-PH-K-S(LF)(SN),JST,,,,,
+J5,1,DIM_IR,JST_PH_S4B-PH-K_1x04_P2.00mm_Horizontal,S4B-PH-K-S(LF)(SN),JST,,,,,
+J6,1,RELAY,JST_PH_S3B-PH-K_1x03_P2.00mm_Horizontal,S3B-PH-K-S(LF)(SN),JST,,,,,
+P1,1,YD-ESP32-S3 L,PinSocket_1x22_P2.54mm_Vertical,SSW-122-01-T-S,Samtec,,,,,1x22 2.54mm female socket strip — or SSW-140 cut to 22
+P2,1,YD-ESP32-S3 R,PinSocket_1x22_P2.54mm_Vertical,SSW-122-01-T-S,Samtec,,,,,1x22 2.54mm female socket strip — or SSW-140 cut to 22
+"R2,R1",2,4.7k,Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,MFR-25FBF52-4K7,Yageo,,,,,
+R3,1,10k,Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,MFR-25FBF52-10K,Yageo,,,,,
