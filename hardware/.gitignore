@@ -1,0 +1,51 @@
+# KiCad backup files
+*.bak
+*.kicad_pcb-bak
+*.kicad_sch-bak
+*-bak
+_autosave-*
+
+# KiCad local user/UI preferences (window positions, layer visibility)
+*.kicad_prl
+
+# KiCad simulation cache/workspace
+*.wbk
+
+# KiCad recovery & temporary files
+*.lck
+*.tmp
+
+# KiCad ERC / DRC reports (generated on demand)
+*.rpt
+
+# Fabrication outputs & manufacturing archives (generate from source or release tags)
+gerbers/
+production/
+*.gbr
+*.drl
+*.gbrjob
+*.zip
+
+# Automated PCB analysis & audit dumps
+analysis/
+
+# CAD & 3D Modeling caches and temporary lock files
+# FreeCAD
+*.FCStd1
+*.FCBak
+*.FCLock
+
+# Fusion 360 / Inventor / SolidWorks temp files
+*.~*
+~*
+*.tmp
+*.err
+
+# Slicer project & gcode files (machine-specific)
+*.gcode
+*.bgcode
+*.3mf.bak
+
+# OS metadata
+.DS_Store
+Thumbs.db
