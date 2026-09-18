@@ -4,9 +4,9 @@
 namespace LampManager {
 namespace {
 
-constexpr uint8_t DIM_VI_PIN = 10;
-constexpr uint8_t DIM_IR_PIN = 11;
-constexpr uint8_t ZC_PIN = 9;
+constexpr uint8_t DIM_VI_PIN = 9;
+constexpr uint8_t DIM_IR_PIN = 10;
+constexpr uint8_t ZC_PIN = 11;
 constexpr uint8_t RELAY_PIN = 12;
 
 rbdimmer_channel_t *dimmer_vi = nullptr;
